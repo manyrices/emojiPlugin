@@ -1,7 +1,7 @@
 # emojiPlugin
 
 emoji插件使用方式如下：</br>
-1、引入emoji_bar.js以及emoji_bar.css</br>
+1、引入jquery.js、emoji_bar.js以及emoji_bar.css</br>
 2、创建一个textarea</br>
 3、为textarea绑定emoji插件</br>
    $('textarea').addEmoji();</br>
